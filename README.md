@@ -1,6 +1,6 @@
 # Get_Next_Line_42
 
-Grade:
+Grade:    
 ![gnl](https://user-images.githubusercontent.com/65557355/206265197-be2dfe4b-009f-43ee-afa8-503329ceabc2.png)
 
 Moulinette Results:
